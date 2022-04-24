@@ -8,13 +8,16 @@ body{
 .isotipo-viajes {
 max-width: 3.5%!important;
 min-width: 35PX;
+
 }
 .navbar-logo {
   background-color: transparent !important;
   padding-left: 2%;
   padding-top: 20px;
   color: white;
-  text-decoration: none;
+}
+.navbar-logo:hover{
+  color: #fff;
 }
 #contacto {
   scroll-behavior: smooth;
