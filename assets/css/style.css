@@ -116,7 +116,7 @@ color: white;
   max-height: auto;
 }
 .card-img-top {
-  max-height: 200px;
+  min-height: 200px;
 }
 .card-title {
   margin-top: 15px;
