@@ -156,6 +156,8 @@ color: white;
   justify-content: end;
 }
 .footer_icons a {
+  padding-top: 8px;
+  font-size: 20px;
   text-decoration: none;
   color: #fff;
 }
@@ -170,3 +172,4 @@ color: white;
   color: #fff;
   background-color: #3fcfc3;
 }
+
