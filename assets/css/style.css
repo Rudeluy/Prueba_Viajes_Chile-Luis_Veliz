@@ -1,0 +1,46 @@
+body * {
+    text-align: center;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+.isotipo-viajes {
+max-width: 3.5%!important;
+min-width: 35PX;
+}
+.navbar-logo {
+  background-color: transparent !important;
+  color: white;
+  padding-left: 2%;
+}
+#contacto {
+    scroll-behavior: smooth;
+  }
+  .fondo{
+    background-color: #1798c1!important;
+}
+  .imagen1 {
+    background-image: url('../img/fondo2.jpeg');
+  }
+  .my-navbar {
+    border: 0;
+    border-radius: 0;
+  }
+  .carousel2 {
+    background-image: url('../img/fondo2.jpeg');
+  }
+  .carousel3 {
+    background-image: url('../img/fondo3.jpeg');
+  }
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    max-height: 600px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
